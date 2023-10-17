@@ -1,0 +1,32 @@
+.login-container{
+    margin-top: 25%;
+    padding: 25px;
+    border-radius: 50px;
+    background-color: pink;
+
+    -webkit-box-shadow: 0px 0px 39px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 39px 4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 39px 4px rgba(0,0,0,0.75)
+}
+
+.error{
+    color:red;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1{
+margin-bottom: 10%;
+background-color: rgb(255, 117, 140);
+border-radius: 50px;
+}
+
+.cadastro-container{
+    padding: 25px;
+    border-radius: 50px;
+    background-color: pink;
+
+    -webkit-box-shadow: 0px 0px 39px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 39px 4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 39px 4px rgba(0,0,0,0.75)
+}

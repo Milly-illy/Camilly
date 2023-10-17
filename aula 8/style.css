@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    background-color: #fff;
+    height: 120px;
+    width: 100%;
+    padding: 35px;
+    display: flex;
+}
+.corpo{
+    background-color: #FFD43E;
+    height: 100vb;
+    width: 100%;
+}
+
+.pesquisa{
+    display: flex;
+    align-items: center;
+    margin-left: 40%;
+}
+
+.pesquisa input{
+    border-radius: 15px;
+    width: 200px;
+    background-color: #c8c8c8;
+}
+
+#lupa{
+    background: url("./search.png") no-repeat right/1.3em;
+    padding-left: 1.3em;
+    background-color: #c8c8c8;
+}
+
+.brasil, .carrinho, .user{
+    display: flex;
+    margin-left: 30px;
+    align-items: center;
+}
